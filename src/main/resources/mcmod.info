@@ -1,0 +1,16 @@
+[
+{
+  "modid": "infinilytra",
+  "name": "Infinilytra",
+  "description": "Elytra no longer degrade in flight.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheStapler"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
